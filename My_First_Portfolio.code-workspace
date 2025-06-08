@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../GitHubCloneProject"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "My_First_Portfolio",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true
+  }
+}
